@@ -2,6 +2,19 @@
 
 A full-stack bookmarking system that automatically scrapes, parses, and categorizes links so you can safely close your tabs without losing context. 
 
+## Architecture Diagram
+
+<img width="872" height="442" alt="graveyardtabs drawio" src="https://github.com/user-attachments/assets/66a6b11e-af35-469b-8d3c-95e6cd3c7ded" />
+
+## Initial Figma Mockup 
+
+[Figma Link](https://www.figma.com/design/L5pa8DFLhOmy2BRtErfSbZ/Tab-Graveyard?node-id=0-1&p=f&t=KdZLfa9GpEv7ystN-0)
+
+## Information Retrieval (EECS 498) Final Paper 
+This is the final paper that my team submitted for our web crawler project which I referenced when implementing this webapp.
+
+[Google Doc Link](https://docs.google.com/document/d/1j9bPqof06Sm6DOkeapJHQLGKMxJ6UhfZ4P1GoH2hBuU/edit?tab=t.0)
+
 ## 🚀 Local Setup Instructions
 
 ### Prerequisites
